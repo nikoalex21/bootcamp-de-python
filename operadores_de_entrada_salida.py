@@ -1,0 +1,6 @@
+nombre = input("Digita tu nombre > ")
+print(f'tu nombre es { nombre}')
+print(type(nombre))
+edad = int(input("Cual es tu edad > "))
+print(edad)
+print(type(edad))
