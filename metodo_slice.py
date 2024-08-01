@@ -1,6 +1,6 @@
 # Crear una lista 'a'
 a = [1, 2, 3, 4, 5]
-# Asignar la referencia de 'a' a 'b'
+# Asignar la lista 'a' a 'b'
 b = a
 
 # Imprimir las listas 'a' y 'b'
